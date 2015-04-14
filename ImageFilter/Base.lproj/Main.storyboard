@@ -196,8 +196,6 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="image" destination="gpw-xA-PFX" id="tgx-jZ-HM4"/>
-                                            <outlet property="imageView" destination="gpw-xA-PFX" id="bAY-oK-cDd"/>
                                             <outlet property="timelineImage" destination="gpw-xA-PFX" id="stV-92-1HR"/>
                                         </connections>
                                     </tableViewCell>
